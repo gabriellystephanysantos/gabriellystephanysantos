@@ -1,4 +1,4 @@
-# 👩🏻‍💻Gabrielly santos 
+# 👩🏻‍💻Gabrielly Santos 
 
 **`Desenvolvedora FullStack`**
 
