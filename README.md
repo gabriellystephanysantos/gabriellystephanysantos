@@ -4,7 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriellysantoss._?igsh=MWEzMHl5ZWU5ZnBreA==)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gabrielly-santos-95098b395?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabriellysnatos.form@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabriellysantosyo@gmail.com)
 
 Me chamo Gabrielly Stephany Santos , tenho 18 anos e sou natural de São Paulo . Concluí o ensino médio Tecnico em Desenvolvimentos de Sistemas.
 <div align="center">
